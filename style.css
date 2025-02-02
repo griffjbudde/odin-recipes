@@ -1,0 +1,14 @@
+body {
+    color: darkblue;
+    text-align: center;
+    background-color: lightgray;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+ul {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    list-style-position: inside;
+}
