@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: lightgray;
+}
+
+h1,
+h3 {
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul,
+ol {
+    list-style-position: inside;
+}
+ul {
+    list-style-type: square;
+}
+p {
+    font-style: italic;
+}
